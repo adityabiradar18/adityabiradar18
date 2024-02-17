@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adityabiradar18
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Html and css
-- 😄 Pronouns: he/him
+- 🧑‍💻 Pronouns: he/him
 
 
 <!---
